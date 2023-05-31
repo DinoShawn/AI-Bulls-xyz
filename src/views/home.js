@@ -283,7 +283,7 @@ const Home = (props) => {
           <div data-teleport="doctors" className="home-doctors">
             <Doctor
               text="Coolest CoFounder"
-              heading="Jeff Jpegs"
+              heading="Nscnt"
               image_src="/Bulls/99-300w.png"
             ></Doctor>
             <Doctor
