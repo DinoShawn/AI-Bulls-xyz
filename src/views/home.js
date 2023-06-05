@@ -288,7 +288,7 @@ const Home = (props) => {
             ></Doctor>
             <Doctor
               text="Twitter Shitposter"
-              heading="Hustle"
+              heading="Gordono"
               image_src="/Bulls/129-300w.png"
             ></Doctor>
             <Doctor
